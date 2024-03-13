@@ -1,0 +1,1 @@
+edit file2.txt ini adalah file 2
